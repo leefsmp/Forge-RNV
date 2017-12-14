@@ -1,0 +1,642 @@
+{
+  "guid": "dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6bGVlZnNtcC1mb3JnZS9vZmZpY2UucnZ0",
+  "success": "100%",
+  "hasThumbnail": "true",
+  "progress": "complete",
+  "urn": "dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6bGVlZnNtcC1mb3JnZS9vZmZpY2UucnZ0",
+  "status": "failed",
+  "startedAt": "Fri Mar 10 10:54:13 UTC 2017",
+  "region": "US",
+  "owner": "dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6bGVlZnNtcC1mb3JnZS9vZmZpY2UucnZ0",
+  "type": "design",
+  "children": [
+    {
+      "guid": "aa85aad6-c480-4a35-9cbf-4cf5994a25ba",
+      "messages": [
+        {
+          "type": "error",
+          "code": "DWF2D-Unknown_Error",
+          "message": "Unknown error processing DWF/DWFx file."
+        },
+        {
+          "type": "error",
+          "message": "Extractor error code -103",
+          "code": "TranslationWorker-InternalFailure"
+        }
+      ],
+      "name": "office.rvt",
+      "success": "100%",
+      "hasThumbnail": "true",
+      "role": "viewable",
+      "version": "2.0",
+      "properties": {
+        "Document Information": {
+          "Project Name": "Urban House",
+          "Project Number": "42",
+          "Author": "Kyle Bernhardt",
+          "Project Address": "123 Fake St\r\nAnytown, USA",
+          "Project Issue Date": "Issue Date",
+          "Project Status": "In Design",
+          "Building Name": "",
+          "Client Name": "Vandalay Industries",
+          "Organization Name": "",
+          "Organization Description": ""
+        }
+      },
+      "progress": "complete",
+      "urn": "dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6bGVlZnNtcC1mb3JnZS9vZmZpY2UucnZ0",
+      "status": "failed",
+      "type": "folder",
+      "children": [
+        {
+          "guid": "8f55cfeb-b04c-4364-c9ab-4c88788f0966",
+          "role": "Autodesk.CloudPlatform.DesignDescription",
+          "mime": "application/json",
+          "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6bGVlZnNtcC1mb3JnZS9vZmZpY2UucnZ0/output/designDescription.json",
+          "status": "success",
+          "type": "resource"
+        },
+        {
+          "guid": "6fac95cb-af5d-3e4f-b943-8a7f55847ff1",
+          "size": 6748160,
+          "role": "Autodesk.CloudPlatform.PropertyDatabase",
+          "mime": "application/autodesk-db",
+          "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6bGVlZnNtcC1mb3JnZS9vZmZpY2UucnZ0/output/Resource/model.sdb",
+          "status": "success",
+          "type": "resource"
+        },
+        {
+          "guid": "b3d264ca-e819-9185-b1a4-9d4d0502c1e9",
+          "name": "Views",
+          "success": "100%",
+          "hasThumbnail": "true",
+          "progress": "complete",
+          "status": "success",
+          "type": "folder",
+          "children": [
+            {
+              "guid": "b92bfc63-c1a3-3235-49f4-69782d4aa0fe",
+              "name": "3D View",
+              "success": "100%",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "status": "success",
+              "type": "folder",
+              "children": [
+                {
+                  "guid": "28d54b52-9a59-c406-f88c-45eca969c64e",
+                  "name": "{3D}",
+                  "success": "100%",
+                  "size": 44650646,
+                  "hasThumbnail": "true",
+                  "role": "3d",
+                  "viewableID": "93842dd5-06c0-43b1-bd2f-aafb68564c36-000ae1c5",
+                  "progress": "complete",
+                  "status": "success",
+                  "type": "geometry",
+                  "children": [
+                    {
+                      "guid": "93842dd5-06c0-43b1-bd2f-aafb68564c36-000ae1c5",
+                      "name": "{3D}",
+                      "role": "3d",
+                      "camera": [
+                        65.004799,
+                        -54.596558,
+                        83.077118,
+                        4.094344,
+                        6.313895,
+                        22.166666,
+                        -0.408248,
+                        0.408248,
+                        0.816497,
+                        0.753751,
+                        0,
+                        1,
+                        1
+                      ],
+                      "progress": "complete",
+                      "status": "success",
+                      "type": "view"
+                    },
+                    {
+                      "guid": "51396162-363a-5e23-f61c-92fbad1c65df",
+                      "size": 44507323,
+                      "role": "graphics",
+                      "mime": "application/autodesk-svf",
+                      "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6bGVlZnNtcC1mb3JnZS9vZmZpY2UucnZ0/output/Resource/3D_View/_3D_ 713157/_3D_.svf",
+                      "type": "resource"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "guid": "9e0c1dc0-fe0e-8e1e-9a22-9ff559253d5e",
+          "name": "Sheets",
+          "success": "100%",
+          "hasThumbnail": "true",
+          "progress": "complete",
+          "status": "success",
+          "type": "folder",
+          "children": [
+            {
+              "guid": "7b2fca8a-cc54-416e-8237-7db6cbf22ee8-0002c71e",
+              "name": "A-1 - Basement & Ground Floor",
+              "success": "100%",
+              "intermediateFile": "output/Resource/Sheet/A_1___Basement___Ground_Floor 182046/dwfx/A_1___Basement___Ground_Floor.dwfx",
+              "size": 0,
+              "hasThumbnail": "true",
+              "role": "2d",
+              "viewableID": "7b2fca8a-cc54-416e-8237-7db6cbf22ee8-0002c71e",
+              "properties": {
+                "Print Setting": {
+                  "Layout": "Landscape",
+                  "Paper size": "ISO A4, 210 x 297 mm"
+                }
+              },
+              "progress": "complete",
+              "order": 0,
+              "status": "success",
+              "type": "geometry",
+              "children": [
+                {
+                  "guid": "530f1ad5-afec-4fee-a2d4-b30c47a725ce",
+                  "name": "Sheet: A-1 - Basement & Ground Floor",
+                  "role": "2d",
+                  "viewbox": [
+                    0,
+                    -0.000216,
+                    42.003937,
+                    30.000216
+                  ],
+                  "type": "view"
+                },
+                {
+                  "guid": "779c3425-4b1a-cb23-41c5-a157010f45ca",
+                  "size": 793710,
+                  "role": "graphics",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6bGVlZnNtcC1mb3JnZS9vZmZpY2UucnZ0/output/dd103d0c-3bc0-3cda-a4c9-5cb4f23b3257_f2d/primaryGraphics.f2d",
+                  "status": "success",
+                  "type": "resource"
+                }
+              ]
+            },
+            {
+              "guid": "44f755eb-4ca4-42c2-bac8-ba411227edb5-0002c729",
+              "name": "A-2 - 1st & 2nd Floor",
+              "success": "100%",
+              "intermediateFile": "output/Resource/Sheet/A_2___1st___2nd_Floor 182057/dwfx/A_2___1st___2nd_Floor.dwfx",
+              "size": 791680,
+              "hasThumbnail": "true",
+              "role": "2d",
+              "viewableID": "44f755eb-4ca4-42c2-bac8-ba411227edb5-0002c729",
+              "properties": {
+                "Print Setting": {
+                  "Layout": "Landscape",
+                  "Paper size": "ISO A4, 210 x 297 mm"
+                }
+              },
+              "progress": "complete",
+              "order": 0,
+              "status": "success",
+              "type": "geometry",
+              "children": [
+                {
+                  "guid": "47ce6de4-5524-c27a-8be3-c6434e7943e3",
+                  "size": 791680,
+                  "role": "graphics",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6bGVlZnNtcC1mb3JnZS9vZmZpY2UucnZ0/output/c8cc7293-7e41-3b4a-8b34-d590224f68b1_f2d/primaryGraphics.f2d",
+                  "status": "success",
+                  "type": "resource"
+                },
+                {
+                  "guid": "5e5fb392-a9b8-4467-8fcf-6f542f3e3573",
+                  "name": "Sheet: A-2 - 1st & 2nd Floor",
+                  "role": "2d",
+                  "viewbox": [
+                    0,
+                    -0.000216,
+                    42.003937,
+                    30.000216
+                  ],
+                  "type": "view"
+                }
+              ]
+            },
+            {
+              "guid": "44f755eb-4ca4-42c2-bac8-ba411227edb5-0002c732",
+              "name": "A-3 - Terrace & Roof",
+              "success": "100%",
+              "intermediateFile": "output/Resource/Sheet/A_3___Terrace___Roof 182066/dwfx/A_3___Terrace___Roof.dwfx",
+              "size": 0,
+              "hasThumbnail": "true",
+              "role": "2d",
+              "viewableID": "44f755eb-4ca4-42c2-bac8-ba411227edb5-0002c732",
+              "properties": {
+                "Print Setting": {
+                  "Layout": "Landscape",
+                  "Paper size": "ISO A4, 210 x 297 mm"
+                }
+              },
+              "progress": "complete",
+              "order": 0,
+              "status": "success",
+              "type": "geometry",
+              "children": [
+                {
+                  "guid": "dc5396ed-00e4-4d60-9df4-e459c3e9cbb2",
+                  "name": "Sheet: A-3 - Terrace & Roof",
+                  "role": "2d",
+                  "viewbox": [
+                    0,
+                    -0.000216,
+                    42.003937,
+                    30.000216
+                  ],
+                  "type": "view"
+                },
+                {
+                  "guid": "a6ed3c2e-2a6c-7af0-31f0-d388968db808",
+                  "size": 743147,
+                  "role": "graphics",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6bGVlZnNtcC1mb3JnZS9vZmZpY2UucnZ0/output/062bdb73-fda2-4b97-76e2-4127142a26c3_f2d/primaryGraphics.f2d",
+                  "status": "success",
+                  "type": "resource"
+                }
+              ]
+            },
+            {
+              "guid": "44f755eb-4ca4-42c2-bac8-ba411227edb5-0002c740",
+              "name": "M-1 - Basement & Ground Floor HVAC",
+              "success": "100%",
+              "intermediateFile": "output/Resource/Sheet/M_1___Basement___Ground_Floor_HVAC 182080/dwfx/M_1___Basement___Ground_Floor_HVAC.dwfx",
+              "size": 0,
+              "hasThumbnail": "true",
+              "role": "2d",
+              "viewableID": "44f755eb-4ca4-42c2-bac8-ba411227edb5-0002c740",
+              "properties": {
+                "Print Setting": {
+                  "Layout": "Landscape",
+                  "Paper size": "ISO A4, 210 x 297 mm"
+                }
+              },
+              "progress": "complete",
+              "order": 0,
+              "status": "success",
+              "type": "geometry",
+              "children": [
+                {
+                  "guid": "1646265f-0506-41c2-80e7-870d4f9bfc94",
+                  "name": "Sheet: M-1 - Basement & Ground Floor HVAC",
+                  "role": "2d",
+                  "viewbox": [
+                    0,
+                    -0.000216,
+                    42.003937,
+                    30.000216
+                  ],
+                  "type": "view"
+                },
+                {
+                  "guid": "15deeda6-aa79-f274-4b8a-cfd6ae68f94a",
+                  "size": 840759,
+                  "role": "graphics",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6bGVlZnNtcC1mb3JnZS9vZmZpY2UucnZ0/output/cd9086e8-ec67-fcc5-fe36-b21cecb96da9_f2d/primaryGraphics.f2d",
+                  "status": "success",
+                  "type": "resource"
+                }
+              ]
+            },
+            {
+              "guid": "44f755eb-4ca4-42c2-bac8-ba411227edb5-0002c74e",
+              "name": "M-2 - 1st & 2nd Floor HVAC",
+              "success": "100%",
+              "intermediateFile": "output/Resource/Sheet/M_2___1st___2nd_Floor_HVAC 182094/dwfx/M_2___1st___2nd_Floor_HVAC.dwfx",
+              "size": 830173,
+              "hasThumbnail": "true",
+              "role": "2d",
+              "viewableID": "44f755eb-4ca4-42c2-bac8-ba411227edb5-0002c74e",
+              "properties": {
+                "Print Setting": {
+                  "Layout": "Landscape",
+                  "Paper size": "ISO A4, 210 x 297 mm"
+                }
+              },
+              "progress": "complete",
+              "order": 0,
+              "status": "success",
+              "type": "geometry",
+              "children": [
+                {
+                  "guid": "11164360-9e7a-f07e-84bf-1cd77e776e1e",
+                  "size": 830173,
+                  "role": "graphics",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6bGVlZnNtcC1mb3JnZS9vZmZpY2UucnZ0/output/aed7e2af-668f-0bde-032e-81bca9e1463e_f2d/primaryGraphics.f2d",
+                  "status": "success",
+                  "type": "resource"
+                },
+                {
+                  "guid": "6a9745e7-9c94-4e3b-bd8d-6dfcd3930de0",
+                  "name": "Sheet: M-2 - 1st & 2nd Floor HVAC",
+                  "role": "2d",
+                  "viewbox": [
+                    0,
+                    -0.000216,
+                    42.003937,
+                    30.000216
+                  ],
+                  "type": "view"
+                }
+              ]
+            },
+            {
+              "guid": "b727febc-4c79-4dd3-920b-2828b53628c8-0002cadf",
+              "name": "M-3 - HVAC Details",
+              "success": "100%",
+              "intermediateFile": "output/Resource/Sheet/M_3___HVAC_Details 183007/dwfx/M_3___HVAC_Details.dwfx",
+              "size": 879834,
+              "hasThumbnail": "true",
+              "role": "2d",
+              "viewableID": "b727febc-4c79-4dd3-920b-2828b53628c8-0002cadf",
+              "properties": {
+                "Print Setting": {
+                  "Layout": "Landscape",
+                  "Paper size": "ISO A4, 210 x 297 mm"
+                }
+              },
+              "progress": "complete",
+              "order": 0,
+              "status": "success",
+              "type": "geometry",
+              "children": [
+                {
+                  "guid": "fae45ef3-6908-a62d-ac3a-44c871b63c80",
+                  "size": 879834,
+                  "role": "graphics",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6bGVlZnNtcC1mb3JnZS9vZmZpY2UucnZ0/output/29522d22-0e4a-cf83-d14a-a284989c177c_f2d/primaryGraphics.f2d",
+                  "status": "success",
+                  "type": "resource"
+                },
+                {
+                  "guid": "fdaf4c65-c386-4ecb-817f-729bcab81a24",
+                  "name": "Sheet: M-3 - HVAC Details",
+                  "role": "2d",
+                  "viewbox": [
+                    0,
+                    -0.000216,
+                    42.003937,
+                    30.000216
+                  ],
+                  "type": "view"
+                }
+              ]
+            },
+            {
+              "guid": "6ff72f0a-a0ca-47df-b3d6-3f0d8d273535-0005e574",
+              "name": "M-0 - Cover Page",
+              "success": "100%",
+              "intermediateFile": "output/Resource/Sheet/M_0___Cover_Page 386420/dwfx/M_0___Cover_Page.dwfx",
+              "size": 26504,
+              "hasThumbnail": "true",
+              "role": "2d",
+              "viewableID": "6ff72f0a-a0ca-47df-b3d6-3f0d8d273535-0005e574",
+              "properties": {
+                "Print Setting": {
+                  "Layout": "Landscape",
+                  "Paper size": "ISO A4, 210 x 297 mm"
+                }
+              },
+              "progress": "complete",
+              "status": "success",
+              "type": "geometry",
+              "children": []
+            },
+            {
+              "guid": "ebfbd289-91fc-42ed-8ae4-d6ece9951c51-0005e589",
+              "name": "P-1 - Basement & Ground Floor",
+              "success": "100%",
+              "intermediateFile": "output/Resource/Sheet/P_1___Basement___Ground_Floor 386441/dwfx/P_1___Basement___Ground_Floor.dwfx",
+              "size": 804095,
+              "hasThumbnail": "true",
+              "role": "2d",
+              "viewableID": "ebfbd289-91fc-42ed-8ae4-d6ece9951c51-0005e589",
+              "properties": {
+                "Print Setting": {
+                  "Layout": "Landscape",
+                  "Paper size": "ISO A4, 210 x 297 mm"
+                }
+              },
+              "progress": "complete",
+              "order": 0,
+              "status": "success",
+              "type": "geometry",
+              "children": [
+                {
+                  "guid": "2c3193ea-8e6e-15a5-f9d2-6fb212670740",
+                  "size": 804095,
+                  "role": "graphics",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6bGVlZnNtcC1mb3JnZS9vZmZpY2UucnZ0/output/4df86081-3d3b-4c35-fbdd-234af5d7f5c7_f2d/primaryGraphics.f2d",
+                  "status": "success",
+                  "type": "resource"
+                },
+                {
+                  "guid": "bf175a88-b383-4f41-a012-024e1d9be33a",
+                  "name": "Sheet: P-1 - Basement & Ground Floor",
+                  "role": "2d",
+                  "viewbox": [
+                    0,
+                    -0.000216,
+                    42.003937,
+                    30.000216
+                  ],
+                  "type": "view"
+                }
+              ]
+            },
+            {
+              "guid": "ebfbd289-91fc-42ed-8ae4-d6ece9951c51-0005e595",
+              "name": "P-2 - 1st Floor & 2nd Floor",
+              "success": "100%",
+              "intermediateFile": "output/Resource/Sheet/P_2___1st_Floor___2nd_Floor 386453/dwfx/P_2___1st_Floor___2nd_Floor.dwfx",
+              "size": 0,
+              "hasThumbnail": "true",
+              "role": "2d",
+              "viewableID": "ebfbd289-91fc-42ed-8ae4-d6ece9951c51-0005e595",
+              "properties": {
+                "Print Setting": {
+                  "Layout": "Landscape",
+                  "Paper size": "ISO A4, 210 x 297 mm"
+                }
+              },
+              "progress": "complete",
+              "order": 0,
+              "status": "success",
+              "type": "geometry",
+              "children": [
+                {
+                  "guid": "f5e46bf6-b594-4ead-99c4-b4c64d81375e",
+                  "name": "Sheet: P-2 - 1st Floor & 2nd Floor",
+                  "role": "2d",
+                  "viewbox": [
+                    0,
+                    -0.000216,
+                    42.003937,
+                    30.000216
+                  ],
+                  "type": "view"
+                },
+                {
+                  "guid": "52f6f896-04a2-b8db-4e8e-1e9d277473a8",
+                  "size": 808210,
+                  "role": "graphics",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6bGVlZnNtcC1mb3JnZS9vZmZpY2UucnZ0/output/020360db-5f21-d5f0-2d01-af91604871d5_f2d/primaryGraphics.f2d",
+                  "status": "success",
+                  "type": "resource"
+                }
+              ]
+            },
+            {
+              "guid": "c97953f6-ba87-49cd-bb20-397957b852be-0005e6bb",
+              "name": "P-3 - Plumbing Details",
+              "success": "100%",
+              "intermediateFile": "output/Resource/Sheet/P_3___Plumbing_Details 386747/dwfx/P_3___Plumbing_Details.dwfx",
+              "size": 793083,
+              "hasThumbnail": "true",
+              "role": "2d",
+              "viewableID": "c97953f6-ba87-49cd-bb20-397957b852be-0005e6bb",
+              "properties": {
+                "Print Setting": {
+                  "Layout": "Landscape",
+                  "Paper size": "ISO A4, 210 x 297 mm"
+                }
+              },
+              "progress": "complete",
+              "order": 0,
+              "status": "success",
+              "type": "geometry",
+              "children": [
+                {
+                  "guid": "12240f0e-2371-2af5-2ac2-89cbff6c1bd6",
+                  "size": 793083,
+                  "role": "graphics",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6bGVlZnNtcC1mb3JnZS9vZmZpY2UucnZ0/output/93f583fd-001d-6fb0-13ac-4301b0fc02b7_f2d/primaryGraphics.f2d",
+                  "status": "success",
+                  "type": "resource"
+                },
+                {
+                  "guid": "713c126e-f2e2-4d3f-80c0-9e2d6a5ab767",
+                  "name": "Sheet: P-3 - Plumbing Details",
+                  "role": "2d",
+                  "viewbox": [
+                    0,
+                    -0.000216,
+                    42.003937,
+                    30.000216
+                  ],
+                  "type": "view"
+                }
+              ]
+            },
+            {
+              "guid": "92da799c-8a8d-489b-aabf-6fc58855671c-0005e86d",
+              "name": "P-0 - Cover Page",
+              "success": "100%",
+              "intermediateFile": "output/Resource/Sheet/P_0___Cover_Page 387181/dwfx/P_0___Cover_Page.dwfx",
+              "size": 0,
+              "hasThumbnail": "true",
+              "role": "2d",
+              "viewableID": "92da799c-8a8d-489b-aabf-6fc58855671c-0005e86d",
+              "properties": {
+                "Print Setting": {
+                  "Layout": "Landscape",
+                  "Paper size": "ISO A4, 210 x 297 mm"
+                }
+              },
+              "progress": "complete",
+              "order": 0,
+              "status": "success",
+              "type": "geometry",
+              "children": [
+                {
+                  "guid": "3a5a729d-861d-725f-d02b-ceadedab8028",
+                  "size": 725630,
+                  "role": "graphics",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6bGVlZnNtcC1mb3JnZS9vZmZpY2UucnZ0/output/27a0a461-858f-c9a9-adba-d105b4cce47e_f2d/primaryGraphics.f2d",
+                  "status": "success",
+                  "type": "resource"
+                },
+                {
+                  "guid": "8ab94648-7908-4c91-947c-e690920fe3aa",
+                  "name": "Sheet: P-0 - Cover Page",
+                  "role": "2d",
+                  "viewbox": [
+                    0,
+                    -0.000216,
+                    42.003937,
+                    30.000216
+                  ],
+                  "type": "view"
+                }
+              ]
+            },
+            {
+              "guid": "06479eb1-d165-4a15-a2e8-ddac7e77574a-000789a9",
+              "name": "E-1 - Panel Schedules",
+              "success": "100%",
+              "intermediateFile": "output/Resource/Sheet/E_1___Panel_Schedules 493993/dwfx/E_1___Panel_Schedules.dwfx",
+              "size": 849108,
+              "hasThumbnail": "true",
+              "role": "2d",
+              "viewableID": "06479eb1-d165-4a15-a2e8-ddac7e77574a-000789a9",
+              "properties": {
+                "Print Setting": {
+                  "Layout": "Landscape",
+                  "Paper size": "ISO A4, 210 x 297 mm"
+                }
+              },
+              "progress": "complete",
+              "order": 0,
+              "status": "success",
+              "type": "geometry",
+              "children": [
+                {
+                  "guid": "5469569e-e661-aece-57d3-0160566b5e64",
+                  "size": 849108,
+                  "role": "graphics",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6bGVlZnNtcC1mb3JnZS9vZmZpY2UucnZ0/output/eed029cd-e57b-4a45-3349-078fe14bf076_f2d/primaryGraphics.f2d",
+                  "status": "success",
+                  "type": "resource"
+                },
+                {
+                  "guid": "ac3784cd-b84b-481e-8c0a-a15fa746edd8",
+                  "name": "Sheet: E-1 - Panel Schedules",
+                  "role": "2d",
+                  "viewbox": [
+                    0,
+                    -0.000216,
+                    42.003937,
+                    30.000216
+                  ],
+                  "type": "view"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

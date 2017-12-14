@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="10" height="10" viewBox="0 0 10 10">
+  <defs>
+    <linearGradient id="linear-gradient" y1="5" x2="10" y2="5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <title>Asset 6</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="finals_24px">
+      <path d="M5,10A5,5,0,0,1,0,5,1.2,1.2,0,0,1,2.3,5,2.7,2.7,0,1,0,5,2.3,1.2,1.2,0,0,1,5,0,5,5,0,0,1,5,10Z" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>
